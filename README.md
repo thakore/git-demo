@@ -3,8 +3,6 @@
 This is the first file in this repo.
 
 
-## Ipsum Below
+## Website Contents
 
-Hello Hello
-
-Hello More Ipsum
+1. index.html
